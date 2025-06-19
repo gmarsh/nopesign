@@ -1,0 +1,13 @@
+(footprint "ScrewHole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp d99f52bf-2482-4062-aa60-1cdf89b3e44d)
+  )
+  (fp_text value "ScrewHole" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f05de03f-ded2-49ed-a94e-25dfefa1f636)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.5) (layers "*.Mask") (tstamp 1812152f-bfd0-4bc2-8ad1-5e2b72a3ef7d))
+)
